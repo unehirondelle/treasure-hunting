@@ -20,7 +20,7 @@ h1 {
 }
 main {
     margin: 0 auto;
-    padding: 10% 0;
+    padding: 10%;
 }
 
 div {
@@ -32,7 +32,7 @@ div {
 
 p {
     padding: 50px;
-    font-size: 1em;
+    font-size: 2em;
     font-weight: 800;
 }
 
