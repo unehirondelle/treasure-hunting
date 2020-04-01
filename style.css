@@ -28,9 +28,9 @@ main {
 }
 
 div {
-    float: left;
+    /* float: left; */
     display: block;
-    width: 50%;
+    /* width: 50%; */
     padding: 20px;
     }
 
