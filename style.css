@@ -13,10 +13,14 @@ header {
     padding: 20px 0;
 }
 
-h1 {
+h1, h2 {
     color: #262318;
     padding: 25px;
     font-size: 4em;
+}
+
+h2 {
+    font-size: 2em;
 }
 main {
     margin: 0 auto;
