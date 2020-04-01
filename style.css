@@ -1,0 +1,69 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    background-color: darkgrey;
+}
+
+header {
+    padding: 20px 0;
+}
+
+h1 {
+    color: #262318;
+    padding: 25px;
+    font-size: 4em;
+}
+main {
+    margin: 0 auto;
+    padding: 10% 0;
+}
+
+div {
+    float: left;
+    display: block;
+    width: 50%;
+    padding: 20px;
+    }
+
+p {
+    padding: 50px;
+    font-size: 1em;
+    font-weight: 800;
+}
+
+#div1 {
+background-color: darkmagenta;
+}
+
+#div2 {
+    background-color: darkorange;
+    }
+
+#div3 {
+background-color: deepskyblue;
+}
+
+#div4 {
+    background-color: green;
+    }
+
+#treasure1 {
+    color: darkmagenta;
+}
+
+#treasure2 {
+    color: darkorange;
+}
+
+#treasure3 {
+    color: deepskyblue;
+}
+
+#treasure4 {
+    color: green;
+}
